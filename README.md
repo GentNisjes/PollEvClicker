@@ -3,11 +3,7 @@ this code is written for a specific type of poll used by my professors at the un
 In this version I managed to run multiple bots on the PollEv.
 Dont expect too much, its my first "real" project here on GitHub. 
 
-# Personal Project
-
-added parallel execution aka threading
-
+# Project Goal
 Learning how to work with selenium and Xpath.
-recently added a method to run the code multiple times.
 
 
